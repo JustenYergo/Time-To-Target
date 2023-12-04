@@ -1,0 +1,44 @@
+0 By SIGALARM:
+Current Date and Time: 07:31:46 PM, Wed Apr 27, 2022
+Until target date: 276 days, 5 hours, 29 minutes, 14 seconds
+Total number of seconds of the target date: 23866154
+
+1 By SIGALARM:
+Current Date and Time: 07:31:49 PM, Wed Apr 27, 2022
+Until target date: 276 days, 5 hours, 29 minutes, 11 seconds
+Total number of seconds of the target date: 23866151
+
+^C1 By SIGINT:
+Current Date and Time: 07:31:55 PM, Wed Apr 27, 2022
+Until target date: 100 days, 5 hours, 29 minutes, 5 seconds
+Total number of seconds of the target date: 8659745
+
+Quit? (y/n): n
+2 By SIGINT:
+Current Date and Time: 07:31:57 PM, Wed Apr 27, 2022
+Until target date: 100 days, 5 hours, 29 minutes, 3 seconds
+Total number of seconds of the target date: 8659743
+
+Quit? (y/n): 3 By SIGALARM:
+Current Date and Time: 07:31:57 PM, Wed Apr 27, 2022
+Until target date: 276 days, 5 hours, 29 minutes, 3 seconds
+Total number of seconds of the target date: 23866143
+
+Quit? (y/n): n
+Quit? (y/n): y4 By SIGALARM:
+Current Date and Time: 07:32:00 PM, Wed Apr 27, 2022
+Until target date: 276 days, 5 hours, 28 minutes, 60 seconds
+Total number of seconds of the target date: 23866140
+
+Quit? (y/n):
+6 By SIGALARM:
+Current Date and Time: 07:32:08 PM, Wed Apr 27, 2022
+Until target date: 276 days, 5 hours, 28 minutes, 52 seconds
+Total number of seconds of the target date: 23866132
+
+7 By SIGALARM:
+Current Date and Time: 07:32:11 PM, Wed Apr 27, 2022
+Until target date: 276 days, 5 hours, 28 minutes, 49 seconds
+Total number of seconds of the target date: 23866129
+
+^C
